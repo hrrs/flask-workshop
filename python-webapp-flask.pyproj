@@ -36,18 +36,18 @@
     <Folder Include="python_webapp_flask\static\" />
     <Folder Include="python_webapp_flask\static\content\" />
     <Folder Include="python_webapp_flask\static\fonts\" />
+    <Folder Include="python_webapp_flask\static\img\" />
     <Folder Include="python_webapp_flask\static\scripts\" />
     <Folder Include="python_webapp_flask\templates\" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="python_webapp_flask\static\fonts\segoeuil.ttf" />
+    <Content Include="python_webapp_flask\static\img\successCloudNew.svg" />
+    <Content Include="python_webapp_flask\static\img\tweetThis.svg" />
     <Content Include="requirements.txt" />
     <Content Include="python_webapp_flask\static\content\bootstrap.css" />
     <Content Include="python_webapp_flask\static\content\bootstrap.min.css" />
     <Content Include="python_webapp_flask\static\content\site.css" />
-    <Content Include="python_webapp_flask\static\fonts\glyphicons-halflings-regular.eot" />
-    <Content Include="python_webapp_flask\static\fonts\glyphicons-halflings-regular.svg" />
-    <Content Include="python_webapp_flask\static\fonts\glyphicons-halflings-regular.ttf" />
-    <Content Include="python_webapp_flask\static\fonts\glyphicons-halflings-regular.woff" />
     <Content Include="python_webapp_flask\static\scripts\bootstrap.js" />
     <Content Include="python_webapp_flask\static\scripts\bootstrap.min.js" />
     <Content Include="python_webapp_flask\static\scripts\jquery-1.10.2.intellisense.js" />
